@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: KORIX LLC",
+  "description": "Texas-based agency providing professional web design, secure hosting, and SEO solutions to help businesses grow their online presence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
